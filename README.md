@@ -21,8 +21,8 @@ In this project, I developed a recommendation model for aspiring restaurant owne
 - [Webpage](#webpage)
 - [Power BI Dashboard](#power-bi-dashboard)
 - [Presentation](#presentation)
-- [Acknowledgments](#acknowledgments)
 - [Usage](#usage)
+- [Acknowledgments](#acknowledgments)
 
 ## Project Details
 
@@ -56,15 +56,6 @@ In this project, I developed a recommendation model for aspiring restaurant owne
 
 - Prepared a presentation summarizing the project's objectives, methods, findings, and recommendations.
 
-## Acknowledgments
-
-I would like to express my sincere gratitude to the following individuals:
-
-- **Mentor**: Rishabh Sengar for his invaluable guidance, continuous support, and insightful feedback throughout the project.
-- **Team Members**: Saurav Kumar, Aditya Tomar, and Saikiran Chakala for their collaboration, contributions, and teamwork, which enriched the project significantly.
-
-Your encouragement and expertise were instrumental in making this project a success. Thank you for your time, knowledge, and dedication.
-
 ## Usage
 
 1. Clone this repository to your local machine.
@@ -74,6 +65,15 @@ Your encouragement and expertise were instrumental in making this project a succ
 5. Review the presentation for a comprehensive overview of the project.
 
 For inquiries or feedback, feel free to reach out.
+
+## Acknowledgments
+
+I would like to express my sincere gratitude to the following individuals:
+
+- **Mentor**: Rishabh Sengar for his invaluable guidance, continuous support, and insightful feedback throughout the project.
+- **Team Members**: Saurav Kumar, Aditya Tomar, and Saikiran Chakala for their collaboration, contributions, and teamwork, which enriched the project significantly.
+
+Your encouragement and expertise were instrumental in making this project a success. Thank you for your time, knowledge, and dedication.
 
 
 
