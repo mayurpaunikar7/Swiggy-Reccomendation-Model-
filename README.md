@@ -55,6 +55,7 @@ In this project, I developed a recommendation model for aspiring restaurant owne
 
 - Developed a Power BI dashboard to visualize data insights and model predictions.
 - Visualizations include popular cuisine, average price, most popular restaurant, and more.
+![alt text](https://github.com/mayurpaunikar7/Swiggy-Reccomendation-Model-/blob/main/Images/Dashboard.jpeg)
 
 ### Presentation
 
