@@ -61,7 +61,7 @@ In this project, I developed a recommendation model for aspiring restaurant owne
 ## Usage
 
 1. Clone this repository to your local machine.
-2. Explore the Jupyter Notebook (`swiggy_recommendation_model.ipynb`) to understand the data analysis process and machine learning implementation.
+2. Explore the Jupyter Notebook (`https://github.com/mayurpaunikar7/Swiggy-Reccomendation-Model-/blob/main/Ml%20Model/ml_project.ipynb`) to understand the data analysis process and machine learning implementation.
 3. Check out the interactive webpage by running the Flask application.
 4. Explore the Power BI dashboard for visualized insights.
 5. Review the presentation for a comprehensive overview of the project.
