@@ -46,6 +46,8 @@ In this project, I developed a recommendation model for aspiring restaurant owne
 - Created an interactive webpage for users to input cuisine, preferred location, and preferred price.
 - Utilized Flask to build the user interface.
 - Stored model predictions using Pickle.
+- https://github.com/mayurpaunikar7/Swiggy-Reccomendation-Model-/blob/main/Web%20Page/web.html
+- 
 
 ### Power BI Dashboard
 
