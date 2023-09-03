@@ -4,6 +4,8 @@
 
 In this project, I developed a recommendation model for aspiring restaurant owners looking to open a new restaurant in Bangalore using data scraped from Swiggy, a popular food delivery platform. The project involves data extraction, preprocessing, analysis, visualization, and the implementation of machine learning algorithms to provide insights and recommendations.
 
+![alt text](https://github.com/mayurpaunikar7/Swiggy-Reccomendation-Model-/blob/main/Images/images%20(1).jfif)
+
 ## Project Overview
 
 - **Objective**: Develop a recommendation model for restaurant owners in Bangalore.
