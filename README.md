@@ -61,6 +61,32 @@ In this project, I developed a recommendation model for aspiring restaurant owne
 
 - Prepared a presentation summarizing the project's objectives, methods, findings, and recommendations.
 
+## Challenges Faced
+
+- **Data Collection**: Gathering and cleaning data from Swiggy required web scraping techniques, handling dynamic content, and managing data quality.
+
+- **Algorithm Complexity**: Developing a recommendation algorithm that considers multiple factors while ensuring scalability and real-time performance was challenging.
+
+- **User Engagement**: Encouraging users to engage with the recommendation system and provide feedback for continuous improvement.
+
+## Insights Derived
+
+- **Personalized Recommendations**: The recommendation model provides personalized restaurant suggestions based on user preferences, determines best location for opening restaurent.
+
+- **User Engagement**: Analyzing user interactions with recommended restaurants and tracking user feedback helps refine the recommendation algorithm.
+
+- **Restaurant Insights**: By analyzing user preferences, restaurant owners can gain insights into customer preferences, leading to menu optimization and targeted promotions.
+
+## Future Scope
+
+- **Enhanced Personalization**: Incorporate machine learning techniques such as collaborative filtering and deep learning to enhance recommendation accuracy.
+
+- **User Feedback Loop**: Implement a feedback mechanism to capture user preferences and continuously update the recommendation model.
+
+- **Geo-Location Integration**: Integrate real-time location data to recommend nearby restaurants and delivery options.
+
+- **Market Expansion**: Extend the recommendation system to other cities and regions to reach a broader user base.
+
 ## Usage
 
 1. Clone this repository to your local machine.
