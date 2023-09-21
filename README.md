@@ -6,6 +6,11 @@ In this project, I developed a recommendation model for aspiring restaurant owne
 
 ![alt text](https://github.com/mayurpaunikar7/Swiggy-Reccomendation-Model-/blob/main/Images/download.png)
 
+## Problem Statement
+The goal of this project is to develop a recommendation model for restaurant owners in Bangalore. The challenge is to scrape data from Swiggy, 
+clean and preprocess it, and build a recommendation system that predicts preferred prices and suggests suitable locations based on cuisine and price. 
+This model aims to enhance the restaurant selection experience for users and boost restaurant sales.
+
 ## Project Overview
 
 - **Objective**: Develop a recommendation model for restaurant owners in Bangalore.
